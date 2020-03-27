@@ -1,4 +1,4 @@
-# UPE DISCORD BOT W/ PYTHON
+# UPE-CODE DISCORD BOT W/ PYTHON
 
 ## Getting Started
 
